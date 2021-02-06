@@ -21,7 +21,7 @@ GitHub: [yokonao](https://github.com/yokonao)
   - RSpecを用いたテスト
   - CIの構築
 
-### 株式会社EverForth
+### 株式会社Everforth
 
 2020年7月~(業務委託契約)
 
