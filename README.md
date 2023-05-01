@@ -1,9 +1,1 @@
-- [gumption](https://github.com/yokonao/gumption)
-  - ハッシュ表やソーティングの実装を通してアルゴリズムについて知識を深めた
-  - C++やMakefileの扱い方を学んだ
-- [hooligan](https://github.com/tychy/hooligan)
-  - Cを用いたCコンパイラの作成
-  - 参考:[低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
-- [Ibis](https://github.com/yokonao/Ibis)
-  - Pythonを用いたテキストファイル変換ツール
-  - 研究に関わる単調な作業を自動化するために作成した
+
